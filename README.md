@@ -34,6 +34,7 @@ Private reference library for building high-end web experiences with modern UI, 
 - Kokonut / Coconut UI
 - Backlit UI
 - React Bits / reactbits.dev
+- THREEUI / ThreeUI
 - Icons8
 
 ### Design Systems / Inspiration / Workflow
