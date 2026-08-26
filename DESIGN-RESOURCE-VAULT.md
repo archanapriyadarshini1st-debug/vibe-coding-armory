@@ -13,6 +13,7 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Superpowers
 - Context7
 - Image-to-Code Skill
+- **Perfect Web Clone Skill** — https://github.com/ericshang98/perfect-web-clone-skill
 - Awesome Design.md — https://github.com/VoltAgent/awesome-design-md/
 - Godly — design/taste reference for improving AI design judgment
 - DesignDNA
@@ -92,6 +93,7 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Superpowers
 - Context7
 - Image-to-Code Skill
+- **Perfect Web Clone Skill** — https://github.com/ericshang98/perfect-web-clone-skill
 - Penpot — GitHub
 - Agentation — agentation.com
 - Vercel Web Guidelines
@@ -160,6 +162,7 @@ These are the names/resources as they were explicitly mentioned during the colle
 - Vercel Web Guidelines
 - Awesome Design.md — VoltAgent/awesome-design-md
 - Image to Code skill — GitHub
+- Perfect Web Clone Skill — GitHub
 - Emil Kowalski
 - Uiverse.io
 - Styles.Refero.Design
