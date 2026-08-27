@@ -14,6 +14,9 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Context7
 - Image-to-Code Skill
 - **Perfect Web Clone Skill** — https://github.com/ericshang98/perfect-web-clone-skill
+- **Claude Frontend Design** — Anthropic's official frontend-design skill/plugin
+- **Claude Frontend Aesthetics / Prompting Guide** — Anthropic guidance for distinctive frontend design
+- **AI Templates / aitmpl.com Frontend Design** — Claude Code Templates frontend-design skill
 - Awesome Design.md — https://github.com/VoltAgent/awesome-design-md/
 - Godly — design/taste reference for improving AI design judgment
 - DesignDNA
@@ -29,7 +32,7 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Recent Design — recent.design
 - Styles Refero — styles.refero.design
 - Mobbin
-- Podium — podium.global
+- Podium.global
 - GetLayers — human-use reference/tool
 - Variant — human-use reference/tool
 - Jitter
@@ -94,10 +97,13 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Context7
 - Image-to-Code Skill
 - **Perfect Web Clone Skill** — https://github.com/ericshang98/perfect-web-clone-skill
+- **Vercel Web Interface Guidelines** — https://vercel.com/design/guidelines
+- **Vercel Web Interface Guidelines Agent Command / Skill** — `/web-interface-guidelines`
 - Penpot — GitHub
 - Agentation — agentation.com
 - Vercel Web Guidelines
 - Awesome Design.md — https://github.com/VoltAgent/awesome-design-md/
+- **AI Templates / aitmpl.com** — https://www.aitmpl.com/
 
 ## Reference / Implementation Ecosystem
 
@@ -117,6 +123,16 @@ A complete list of the design, UI, motion, graphics, engineering, and reference 
 - Skiper UI
 - 21st.dev
 
+## AI Frontend Design Standards
+
+Use these resources as complementary quality layers:
+
+- **Claude Frontend Design:** establish purpose, audience, constraints, differentiation, and a clear aesthetic direction before coding. Avoid templated defaults and make deliberate choices in typography, color, layout, motion, and visual depth.
+- **Claude Frontend Aesthetics:** avoid generic AI convergence such as default Inter/Arial/system fonts, purple-gradient-on-white aesthetics, predictable component layouts, and cookie-cutter composition. Encourage distinctive typography, cohesive themes, high-impact motion, and contextual backgrounds.
+- **AI Templates / aitmpl.com:** use its frontend-design skill and other relevant Claude Code components as implementation/workflow references rather than blindly installing everything.
+- **Vercel Web Interface Guidelines:** audit keyboard interaction, focus behavior, hit targets, responsive layout, content states, accessibility, motion, performance, and visual polish.
+- **Vercel Web Interface Guidelines agent command:** use `/web-interface-guidelines` or the equivalent installed skill to review generated UI when supported.
+
 ## Design Standard
 
 The final work should:
@@ -132,6 +148,9 @@ The final work should:
 - Maintain accessibility, responsiveness, performance, and production-quality code.
 - Treat component libraries as sources of building blocks, not as a visual identity.
 - Keep the final website visually coherent rather than looking like a showcase of unrelated libraries.
+- Establish a clear aesthetic direction before implementation.
+- Take at least one justified, context-specific visual risk instead of defaulting to safe AI patterns.
+- Audit the finished interface against accessibility, responsive behavior, interaction quality, motion, performance, and content quality.
 
 ## Original Reference List — Names Preserved
 
@@ -163,6 +182,9 @@ These are the names/resources as they were explicitly mentioned during the colle
 - Awesome Design.md — VoltAgent/awesome-design-md
 - Image to Code skill — GitHub
 - Perfect Web Clone Skill — GitHub
+- Claude Frontend Design
+- Claude Frontend Aesthetics
+- AI Templates / aitmpl.com
 - Emil Kowalski
 - Uiverse.io
 - Styles.Refero.Design
