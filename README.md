@@ -1,6 +1,6 @@
 # Vibe Coding Armory
 
-Private reference library for building high-end web experiences with modern UI, motion, 3D, graphics, shaders, and AI-assisted design workflows.
+Private reference library for building high-end web experiences with modern UI, motion, 3D, graphics, shaders, internet research, and AI-assisted design workflows.
 
 ## Toolkit
 
@@ -37,6 +37,9 @@ Private reference library for building high-end web experiences with modern UI, 
 - THREEUI / ThreeUI
 - Icons8
 
+### Research / Agent Skills
+- Agent Reach — internet capability router for web, GitHub, YouTube, social platforms, jobs, RSS, and multi-source research
+
 ### Design Systems / Inspiration / Workflow
 - Design DNA
 - UI/UX Pro Max skill
@@ -61,3 +64,7 @@ Prioritize:
 Avoid generic AI-slop patterns such as arbitrary gradients, excessive rounded cards, repetitive glassmorphism, weak typography, and decorative animation with no purpose.
 
 Target the feel of a real 2026 product designed by a strong design + engineering team.
+
+## Skill References
+
+- [Agent Reach](skills/agent-reach.md) — internet capability router and research workflow
