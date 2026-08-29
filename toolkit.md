@@ -35,14 +35,19 @@
 26. Backlit UI
 27. React Bits / reactbits.dev
 28. Icons8
+29. THREEUI / ThreeUI
+
+## Research / Agent Skills
+30. Agent Reach — internet capability router
 
 ## Reference Stack
 - Design: Design DNA, UI/UX Pro Max
-- UI: Shadcn, Watermelon, Magic UI, Smooth UI, Retro UI, Unlumen, Backlit, Kokonut, React Bits, Dashboard UI
+- UI: Shadcn, Watermelon, Magic UI, Smooth UI, Retro UI, Unlumen, Backlit, Kokonut, React Bits, Dashboard UI, THREEUI
 - Motion: GSAP, Motion.dev, Anime.js, Rive, LottieFiles
 - 3D: Three.js, Spline
 - Graphics: LS Graphics, Shader Gradient, Shaders, UI Verse, Genjutsu
 - Inspiration / workflow: Motion Sites, Horizonx.so, Same.new
+- Research / agents: Agent Reach
 
 ## Selection Rule
-Start with the design direction, then choose components, motion, and graphics tools to support it. Do not force every library into every project.
+Start with the design direction, then choose components, motion, graphics, and research tools to support it. Do not force every library or skill into every project.
