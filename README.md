@@ -49,6 +49,11 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - Screen Use — Windows desktop vision, interaction, and autonomous GUI workflows
 - Open Computer Use — cross-platform local desktop computer-use through MCP/CLI
 - MCP Builder — focused MCP tool/server design
+- Article Writing Skills — article ideation, structure, research-aware writing, and editing workflows
+
+### Education / Learning Agent Skills
+- Education Agent Skills Library — evidence-based pedagogical skills spanning learning science, curriculum, assessment, AI literacy, inclusion, and student learning
+- KRASA-AI Education AI Skills — practical education-focused prompts and workflows for AI literacy, planning, assessment, differentiation, feedback, and communication
 
 ### Frontend / Engineering Skills
 - Frontend Design — distinctive, high-quality interface design
@@ -105,6 +110,11 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [GSAP Skill](skills/gsap-skill.md)
 - [Claude Find Skill](skills/claude-find-skill.md)
 - [Vercel Find Skills](skills/vercel-find-skill.md)
+- [Article Writing Skills](skills/article-writing-skills.md)
+
+### Education
+- [Education Agent Skills Library](skills/education-agent-skills.md)
+- [KRASA-AI Education AI Skills](skills/krasa-education-ai-skills.md)
 
 ### Frontend / Engineering
 - [Frontend Design](skills/frontend-design.md)
