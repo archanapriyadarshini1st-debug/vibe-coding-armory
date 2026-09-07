@@ -39,6 +39,12 @@ Private reference library for building high-end web experiences with modern UI, 
 
 ### Research / Agent Skills
 - Agent Reach — internet capability router for web, GitHub, YouTube, social platforms, jobs, RSS, and multi-source research
+- Agent Skill — reusable Agent Skills format and authoring reference
+- Claude Find Skill — Claude Code skill discovery
+- Vercel Find Skills — official Vercel skill discovery workflow
+
+### Animation / Motion Skills
+- GSAP Skill — production GSAP patterns for core tweens, timelines, ScrollTrigger, React, plugins, utilities, performance, responsive behavior, and reduced motion
 
 ### Design Systems / Inspiration / Workflow
 - Design DNA
@@ -68,3 +74,7 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 ## Skill References
 
 - [Agent Reach](skills/agent-reach.md) — internet capability router and research workflow
+- [Agent Skill](skills/agent-skill.md) — reusable skill structure and authoring reference
+- [GSAP Skill](skills/gsap-skill.md) — production GSAP animation guidance
+- [Claude Find Skill](skills/claude-find-skill.md) — Claude Code skill discovery
+- [Vercel Find Skills](skills/vercel-find-skill.md) — Vercel's official skill discovery workflow
