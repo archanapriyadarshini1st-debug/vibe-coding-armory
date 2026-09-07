@@ -1,6 +1,6 @@
 # Vibe Coding Armory
 
-Private reference library for building high-end web experiences with modern UI, motion, 3D, graphics, shaders, internet research, and AI-assisted design workflows.
+Private reference library for building high-end web experiences, AI-assisted products, agent workflows, and programmatic video with modern UI, motion, 3D, graphics, shaders, research, testing, and production engineering practices.
 
 ## Toolkit
 
@@ -38,13 +38,33 @@ Private reference library for building high-end web experiences with modern UI, 
 - Icons8
 
 ### Research / Agent Skills
-- Agent Reach — internet capability router for web, GitHub, YouTube, social platforms, jobs, RSS, and multi-source research
-- Agent Skill — reusable Agent Skills format and authoring reference
+- Agent Reach — internet capability router and multi-source research
+- Agent Skill — reusable skill structure and authoring reference
 - Claude Find Skill — Claude Code skill discovery
-- Vercel Find Skills — official Vercel skill discovery workflow
+- Vercel Find Skills — Vercel skill discovery workflow
+- Agent Browser — browser automation and UI verification
+- MCP Builder — focused MCP tool/server design
+
+### Frontend / Engineering Skills
+- Frontend Design — distinctive, high-quality interface design
+- Vercel React Best Practices — React/Next.js performance guidance
+- Vercel Composition Patterns — scalable component composition
+- Web Design Guidelines — UI, accessibility, semantics, and responsive review
+- Web App Testing — browser/user-flow validation
+- TDD — test-driven development and regression safety
+- Systematic Debugging — evidence-based root-cause debugging
+- Codebase Architecture — maintainable project structure and refactoring
+- Skill Creator — reusable agent-skill authoring
 
 ### Animation / Motion Skills
-- GSAP Skill — production GSAP patterns for core tweens, timelines, ScrollTrigger, React, plugins, utilities, performance, responsive behavior, and reduced motion
+- GSAP Skill — core tweens, timelines, ScrollTrigger, React, plugins, utilities, responsive behavior, and reduced motion
+- Remotion Best Practices — React-based programmatic video composition and rendering
+
+### Video Editing Skills
+- Vertical Video Editing — 9:16/multi-ratio edits, captions, B-roll, transitions, and reusable presets
+- Qwen MM Video Edit — editing-director workflow for real footage, scene planning, pacing, sound, and review gates
+- ClipSkills — AI-agent-oriented professional editing knowledge and autonomous first-cut workflows
+- Video Use — conversation-driven editing with transcription, cutting, grading, overlays, subtitles, rendering, and verification
 
 ### Design Systems / Inspiration / Workflow
 - Design DNA
@@ -53,7 +73,7 @@ Private reference library for building high-end web experiences with modern UI, 
 
 ## Build Philosophy
 
-Use these as a toolbox rather than a checklist. Pick the smallest set of technologies that creates the intended visual and interaction quality.
+Use these as a toolbox rather than a checklist. Pick the smallest set of technologies and skills that creates the intended quality.
 
 Prioritize:
 - strong visual hierarchy and spacing
@@ -64,6 +84,7 @@ Prioritize:
 - polished micro-interactions
 - coherent design language
 - production-quality structure rather than AI-generated template patterns
+- evidence-based testing and verification
 
 ## Vibe-Coding Standard
 
@@ -73,8 +94,29 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 
 ## Skill References
 
-- [Agent Reach](skills/agent-reach.md) — internet capability router and research workflow
-- [Agent Skill](skills/agent-skill.md) — reusable skill structure and authoring reference
-- [GSAP Skill](skills/gsap-skill.md) — production GSAP animation guidance
-- [Claude Find Skill](skills/claude-find-skill.md) — Claude Code skill discovery
-- [Vercel Find Skills](skills/vercel-find-skill.md) — Vercel's official skill discovery workflow
+### Existing
+- [Agent Reach](skills/agent-reach.md)
+- [Agent Skill](skills/agent-skill.md)
+- [GSAP Skill](skills/gsap-skill.md)
+- [Claude Find Skill](skills/claude-find-skill.md)
+- [Vercel Find Skills](skills/vercel-find-skill.md)
+
+### Frontend / Engineering
+- [Frontend Design](skills/frontend-design.md)
+- [Vercel React Best Practices](skills/vercel-react-best-practices.md)
+- [Vercel Composition Patterns](skills/vercel-composition-patterns.md)
+- [Web Design Guidelines](skills/web-design-guidelines.md)
+- [Agent Browser](skills/agent-browser.md)
+- [Web App Testing](skills/webapp-testing.md)
+- [Skill Creator](skills/skill-creator.md)
+- [Systematic Debugging](skills/systematic-debugging.md)
+- [TDD](skills/tdd.md)
+- [Codebase Architecture](skills/codebase-architecture.md)
+- [MCP Builder](skills/mcp-builder.md)
+
+### Video
+- [Vertical Video Editing](skills/video-vertical-editing.md)
+- [Qwen MM Video Edit](skills/video-edit-qwen-mm.md)
+- [ClipSkills](skills/video-edit-clipskills.md)
+- [Video Use](skills/video-use.md)
+- [Remotion Best Practices](skills/remotion-best-practices.md)
