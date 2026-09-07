@@ -12,6 +12,7 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - Shader Gradient
 - UI Verse
 - Genjutsu
+- Image2ThreeJS — reference-image to procedural, animation-ready Three.js reconstruction
 
 ### Motion / Interaction
 - GSAP
@@ -44,6 +45,7 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - Vercel Find Skills — Vercel skill discovery workflow
 - Agent Browser — browser automation and UI verification
 - Vision — external OpenAI-compatible image understanding and analysis
+- Image2Code — reference-image to high-fidelity frontend implementation
 - Screen Use — Windows desktop vision, interaction, and autonomous GUI workflows
 - Open Computer Use — cross-platform local desktop computer-use through MCP/CLI
 - MCP Builder — focused MCP tool/server design
@@ -111,6 +113,7 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [Web Design Guidelines](skills/web-design-guidelines.md)
 - [Agent Browser](skills/agent-browser.md)
 - [Vision](skills/vision.md)
+- [Image2Code](skills/image2code.md)
 - [Screen Use](skills/screen-use.md)
 - [Open Computer Use](skills/open-computer-use.md)
 - [Web App Testing](skills/webapp-testing.md)
@@ -119,6 +122,9 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [TDD](skills/tdd.md)
 - [Codebase Architecture](skills/codebase-architecture.md)
 - [MCP Builder](skills/mcp-builder.md)
+
+### 3D / Graphics
+- [Image2ThreeJS](skills/img2threejs.md)
 
 ### Video
 - [Vertical Video Editing](skills/video-vertical-editing.md)
