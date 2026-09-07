@@ -43,6 +43,9 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - Claude Find Skill — Claude Code skill discovery
 - Vercel Find Skills — Vercel skill discovery workflow
 - Agent Browser — browser automation and UI verification
+- Vision — external OpenAI-compatible image understanding and analysis
+- Screen Use — Windows desktop vision, interaction, and autonomous GUI workflows
+- Open Computer Use — cross-platform local desktop computer-use through MCP/CLI
 - MCP Builder — focused MCP tool/server design
 
 ### Frontend / Engineering Skills
@@ -107,6 +110,9 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [Vercel Composition Patterns](skills/vercel-composition-patterns.md)
 - [Web Design Guidelines](skills/web-design-guidelines.md)
 - [Agent Browser](skills/agent-browser.md)
+- [Vision](skills/vision.md)
+- [Screen Use](skills/screen-use.md)
+- [Open Computer Use](skills/open-computer-use.md)
 - [Web App Testing](skills/webapp-testing.md)
 - [Skill Creator](skills/skill-creator.md)
 - [Systematic Debugging](skills/systematic-debugging.md)
