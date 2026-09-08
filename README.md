@@ -68,6 +68,7 @@ Private reference library for building high-end web experiences, AI-assisted pro
 
 ### Animation / Motion Skills
 - GSAP Skill — core tweens, timelines, ScrollTrigger, React, plugins, utilities, responsive behavior, and reduced motion
+- Theatre.js Skill — high-fidelity keyframe animation, visual sequencing, graph editing, 3D/UI motion, and cinematic web workflows
 - Remotion Best Practices — React-based programmatic video composition and rendering
 
 ### Video Editing Skills
@@ -108,6 +109,7 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [Agent Reach](skills/agent-reach.md)
 - [Agent Skill](skills/agent-skill.md)
 - [GSAP Skill](skills/gsap-skill.md)
+- [Theatre.js Skill](skills/theatre-js.md)
 - [Claude Find Skill](skills/claude-find-skill.md)
 - [Vercel Find Skills](skills/vercel-find-skill.md)
 - [Article Writing Skills](skills/article-writing-skills.md)
