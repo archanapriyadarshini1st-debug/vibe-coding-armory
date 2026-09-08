@@ -1,6 +1,6 @@
 # Vibe Coding Armory
 
-Private reference library for building high-end web experiences, AI-assisted products, agent workflows, and programmatic video with modern UI, motion, 3D, graphics, shaders, research, testing, and production engineering practices.
+Private reference library for building high-end web experiences, AI-assisted products, agent workflows, and programmatic video with modern UI, motion, 3D, graphics, shaders, research, testing, production engineering, education, and writing practices.
 
 ## Toolkit
 
@@ -51,6 +51,17 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - MCP Builder — focused MCP tool/server design
 - Article Writing Skills — article ideation, structure, research-aware writing, and editing workflows
 
+### Writing / Creative / Professional Skills
+- Writing Craft — human-sounding prose, structure, rhythm, specificity, and AI-pattern cleanup
+- General Writing — clarity, concision, voice preservation, and final house-style editing
+- Professional Writing — polished workplace, business, client, and formal communication
+- Academic Writing — evidence-aware essays, reports, analysis, and source-based assignments
+- School Answer Writing — mark-aware textbook/question responses for schoolwork
+- School Format Writing — letters, applications, notices, reports, articles, speeches, debates, and other school formats
+- Writing Router — routes writing tasks to the smallest appropriate specialized skill set
+- Humanizer — observable AI-pattern cleanup without guessing authorship
+- Proofreading — grammar, punctuation, consistency, and final correctness checks
+
 ### Education / Learning Agent Skills
 - Education Agent Skills Library — evidence-based pedagogical skills spanning learning science, curriculum, assessment, AI literacy, inclusion, and student learning
 - KRASA-AI Education AI Skills — practical education-focused prompts and workflows for AI literacy, planning, assessment, differentiation, feedback, and communication
@@ -96,12 +107,14 @@ Prioritize:
 - coherent design language
 - production-quality structure rather than AI-generated template patterns
 - evidence-based testing and verification
+- clear, audience-aware writing
+- format and rubric compliance for school/academic work
 
 ## Vibe-Coding Standard
 
-Avoid generic AI-slop patterns such as arbitrary gradients, excessive rounded cards, repetitive glassmorphism, weak typography, and decorative animation with no purpose.
+Avoid generic AI-slop patterns such as arbitrary gradients, excessive rounded cards, repetitive glassmorphism, weak typography, decorative animation with no purpose, and padded/generic writing.
 
-Target the feel of a real 2026 product designed by a strong design + engineering team.
+Target the feel of a real 2026 product designed by a strong design + engineering team, with writing that is equally intentional.
 
 ## Skill References
 
@@ -113,6 +126,17 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [Claude Find Skill](skills/claude-find-skill.md)
 - [Vercel Find Skills](skills/vercel-find-skill.md)
 - [Article Writing Skills](skills/article-writing-skills.md)
+
+### Writing
+- [Writing Craft](skills/writing-craft.md)
+- [General Writing](skills/general-writing.md)
+- [Professional Writing](skills/professional-writing.md)
+- [Academic Writing](skills/academic-writing.md)
+- [School Answer Writing](skills/school-answer-writing.md)
+- [School Format Writing](skills/school-format-writing.md)
+- [Writing Router](skills/writing-router.md)
+- [Humanizer](skills/humanizer.md)
+- [Proofreading](skills/proofreading.md)
 
 ### Education
 - [Education Agent Skills Library](skills/education-agent-skills.md)
