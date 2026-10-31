@@ -40,6 +40,12 @@
 ## Research / Agent Skills
 30. Agent Reach — internet capability router
 
+## Ideation / Innovation Skills
+31. Brainstorming — escape convergent thinking and expand seed ideas
+32. Creative Thinking for Research — cross-domain and cognitive-science creativity frameworks
+33. Generating Novel Ideas — diverse, differentiated concept generation
+34. Brainstorming Research Ideas — structured research-direction discovery
+
 ## Reference Stack
 - Design: Design DNA, UI/UX Pro Max
 - UI: Shadcn, Watermelon, Magic UI, Smooth UI, Retro UI, Unlumen, Backlit, Kokonut, React Bits, Dashboard UI, THREEUI
@@ -48,6 +54,7 @@
 - Graphics: LS Graphics, Shader Gradient, Shaders, UI Verse, Genjutsu
 - Inspiration / workflow: Motion Sites, Horizonx.so, Same.new
 - Research / agents: Agent Reach
+- Ideation: Brainstorming, Creative Thinking for Research, Generating Novel Ideas, Brainstorming Research Ideas
 
 ## Selection Rule
 Start with the design direction, then choose components, motion, graphics, and research tools to support it. Do not force every library or skill into every project.
