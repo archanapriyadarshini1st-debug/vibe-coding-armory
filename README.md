@@ -51,6 +51,12 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - MCP Builder — focused MCP tool/server design
 - Article Writing Skills — article ideation, structure, research-aware writing, and editing workflows
 
+### Ideation / Innovation Skills
+- Brainstorming — escape convergent thinking and expand seed ideas
+- Creative Thinking for Research — cognitive-science-informed research ideation frameworks
+- Generating Novel Ideas — diverse, differentiated product, business, and research concepts
+- Brainstorming Research Ideas — structured discovery of research directions
+
 ### Writing / Creative / Professional Skills
 - Writing Craft — human-sounding prose, structure, rhythm, specificity, and AI-pattern cleanup
 - General Writing — clarity, concision, voice preservation, and final house-style editing
@@ -126,6 +132,9 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [Claude Find Skill](skills/claude-find-skill.md)
 - [Vercel Find Skills](skills/vercel-find-skill.md)
 - [Article Writing Skills](skills/article-writing-skills.md)
+
+### Ideation / Innovation
+- [Ideation & Innovation Skills](skills/ideation-innovation-skills.md)
 
 ### Writing
 - [Writing Craft](skills/writing-craft.md)
