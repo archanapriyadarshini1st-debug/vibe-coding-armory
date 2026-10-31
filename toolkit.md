@@ -46,6 +46,10 @@
 33. Generating Novel Ideas — diverse, differentiated concept generation
 34. Brainstorming Research Ideas — structured research-direction discovery
 
+## Writing / Humanization
+- Humanize Writing — generation-time voice shaping, natural cadence, and rewrite cleanup
+- Humanizer — general AI-pattern cleanup with voice and fact preservation
+
 ## Reference Stack
 - Design: Design DNA, UI/UX Pro Max
 - UI: Shadcn, Watermelon, Magic UI, Smooth UI, Retro UI, Unlumen, Backlit, Kokonut, React Bits, Dashboard UI, THREEUI
