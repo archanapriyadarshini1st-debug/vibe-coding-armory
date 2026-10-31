@@ -65,6 +65,7 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - School Answer Writing — mark-aware textbook/question responses for schoolwork
 - School Format Writing — letters, applications, notices, reports, articles, speeches, debates, and other school formats
 - Writing Router — routes writing tasks to the smallest appropriate specialized skill set
+- Humanize Writing — generation-time voice shaping and rewrite cleanup for predictable phrasing
 - Humanizer — observable AI-pattern cleanup without guessing authorship
 - Proofreading — grammar, punctuation, consistency, and final correctness checks
 
@@ -144,6 +145,7 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [School Answer Writing](skills/school-answer-writing.md)
 - [School Format Writing](skills/school-format-writing.md)
 - [Writing Router](skills/writing-router.md)
+- [Humanize Writing](skills/humanize-writing.md)
 - [Humanizer](skills/humanizer.md)
 - [Proofreading](skills/proofreading.md)
 
