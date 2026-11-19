@@ -49,6 +49,8 @@ Private reference library for building high-end web experiences, AI-assisted pro
 - Screen Use — Windows desktop vision, interaction, and autonomous GUI workflows
 - Open Computer Use — cross-platform local desktop computer-use through MCP/CLI
 - MCP Builder — focused MCP tool/server design
+- Arena Skill — multi-agent solution tournament with critique, revision, and rubric-based selection
+- Microsoft Webwright — terminal-driven Playwright browser agent and coding-agent plugin (not an MCP server)
 - Article Writing Skills — article ideation, structure, research-aware writing, and editing workflows
 
 ### Ideation / Innovation Skills
@@ -169,6 +171,8 @@ Target the feel of a real 2026 product designed by a strong design + engineering
 - [TDD](skills/tdd.md)
 - [Codebase Architecture](skills/codebase-architecture.md)
 - [MCP Builder](skills/mcp-builder.md)
+- [Arena Skill](skills/arena-skill.md)
+- [Microsoft Webwright](skills/webwright.md)
 
 ### 3D / Graphics
 - [Image2ThreeJS](skills/img2threejs.md)
